@@ -11,4 +11,4 @@ The next step is simple, we try to select 2 distance points that are equidistant
     <kbd> <img src="https://google.github.io/mediapipe/images/mobile/hand_landmarks.png" /> </kbd>
 
 <br>
-And for the last steps we take samples of the distance between the cam and the center of our line and make lists of propotion of cm and hypothenus calculated by the formula of pytagore.
+And for the last steps we take samples of the distance between the cam and the center of our line and make lists of propotion of cm and hypothenus calculated by the formula of pytagore. 
